@@ -1,0 +1,23 @@
+
+.color-info{
+	border: 3px solid black;
+}
+#about_blue{
+	background-color: #6495ED;
+	color:blue;
+
+}
+#about_yellow{
+	background-color: #FFEBCD;
+	color:orange;
+}
+
+.blue{
+	color: black; 
+}
+.yellow{
+	color: black;
+}
+.nav span{
+	background-color:red;
+}

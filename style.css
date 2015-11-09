@@ -1,0 +1,27 @@
+em {
+	color: red;
+}
+
+p{
+	font:  12px Helvetica;
+	color: blue;
+}
+
+.yellow{
+	background-color: yellow;
+}
+.teal{
+	background-color: teal;
+}
+h1{
+	color: red;
+}
+h2{
+	color: green;
+	background-color: orange;
+}
+
+
+.color-infor{
+	border: 3px;
+}
